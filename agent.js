@@ -1,5 +1,5 @@
 const sdk = VoxImplant.getInstance();
-const USERNAME = "vitoragent@videotest.brigo.n9.voximplant.com";
+const USERNAME = "vitoragent@videocontactcenter.vlima.voximplant.com";
 const PASSWORD = "12345678"; // Trocar pela senha real
 const ACCOUNT_NODE = VoxImplant.ConnectionNode.NODE_9;
 
