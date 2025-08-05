@@ -1,7 +1,7 @@
 const sdk = VoxImplant.getInstance();
 const ACCOUNT_NODE = VoxImplant.ConnectionNode.NODE_9;
-const USERNAME = "Usuario_Teste@videotest.brigo.n9.voximplant.com";
-const PASSWORD = "#Aiud0Gx";
+const USERNAME = "user@videocontactcenter.vlima.voximplant.com";
+const PASSWORD = "12345678";
 
 let currentCall = null;
 
